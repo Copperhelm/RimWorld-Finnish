@@ -13,3 +13,4 @@ Translators:
 
 PreownedFIN
 Sakuukuli
+Copperhelm
